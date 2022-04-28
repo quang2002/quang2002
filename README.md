@@ -81,7 +81,11 @@
 </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=quang2002&show_icons=true&locale=en&layout=compact" alt="quang2002" /></p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=quang2002&show_icons=true&locale=en&layout=compact" alt="quang2002" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=quang2002&show_icons=true&locale=en" alt="quang2002" /></p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=quang2002&show_icons=true&locale=en" alt="quang2002" />
+</p>
 
