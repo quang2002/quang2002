@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quang2002&label=Profile%20views&color=0e75b6&style=flat" alt="quang2002" /> </p>
 
-- 🌱 I’m currently learning **WPF, ASP.NET, Reverse Engineering, ...**
-
 - 📫 How to reach me **yuyu2711@outlook.com**
 
 - ⚡ [**My Secret**](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
